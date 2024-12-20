@@ -79,7 +79,7 @@ The **Ethical Hacking Lab** provides a controlled environment for hands-on learn
 - Dictionary attack and cracking password hashes.
 
 ### 15. EternalBlue Exploit
-![EternalBlue](https://github.com/user-attachments/assets/5d4fa3b1-acf8-4a43-8a44-6dfbefcdf41b)
+![EternalBlue Exploit](https://github.com/user-attachments/assets/fallback-image.png)
 - Post-exploitation using MS17-010 EternalBlue and Remote Desktop Connection.
 
 ### 16. Timestamp Evasion
